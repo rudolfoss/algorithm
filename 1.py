@@ -1,3 +1,5 @@
+//프로그래머스 신고결과 받기 문제
+
 def solution(id_list, report, k):
     reportHash = {}
     resultHash = {}
